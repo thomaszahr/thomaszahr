@@ -1,5 +1,0 @@
-= another Test
-
-:hp-tags: testing
-
-Drafts -> Working Copy -> Dolphin
