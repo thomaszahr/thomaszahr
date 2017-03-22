@@ -9,7 +9,7 @@
 
 :hp-tags: bread
 
-image::https://dl.dropboxusercontent.com/u/902203/Datei%2022.03.17%2C%2017%2000%2041.jpeg?DL=0[Recipe 2]
+image::https://dl.dropboxusercontent.com/u/902203/Datei%2022.03.17%2C%2017%2000%2041.jpeg?DL=0[Recipe 2,400]
 
 
 .bread & pizza recipes
