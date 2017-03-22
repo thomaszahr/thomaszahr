@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[crumblingbiscuit]]></title><description><![CDATA[... crumblingbiscuit's common place book]]></description><link>https://thomaszahr.github.io</link><image><url>https://lh3.googleusercontent.com/2tor-0-MsbWL48EuQdtcfpLLvxDaoF-JJfHtSVcdG2JTwaIUPxVdmoOEkZ8CL1HWosYdSfK_rUzmXHSfEQDOeRXCGupqs4s-U25VHuxajvPTP828QF6SvQGa8uOtHFTEfASc91qoH52kCqOosECpUgZBM-RNfgbMhOzsIWg9f-xEBiJ9B9xsUoGpFRSUc6uL8RTlu5zEOx21OmDFcm6wxOq--PFdN1k_9CSKq8i8uPVSmnzph0BK8TUN32nQSfhm8MStVJ7AyNeJSrMfpXISisByfDfNNv5usRajrU_dZvQqIXo6NVzTFGhVefnDQo-sRnnySfJE5RdRg0Hl-qu2EIz_8nKKUazdJuQ5p5ClM2KlGo5nDBl0AklThiupi9mrs4culYsWILRZ_rCaPHgIecjUabNcc3bOhc6RxX5zAUVU3YTdXwqTXE6Hhg_Dol1POm2OU2vy7m2CZI0K5cZLXF_VNk04OAjMrdmk2mhay3b1_b2nqlLZxnvLKbHLvh4qfHp0qSXQLkg91k8hGV0LiVNoWNrg5V81sa9MWm6Mw0BE7C37c8h0NVSpgLxtxmCpMaZHpenXD5mCAMsU598NeUhipq2rb6vB8vnp6WYLkWnxyKg9hdkHdw=s1021-no</url><title>crumblingbiscuit</title><link>https://thomaszahr.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Mar 2017 16:12:52 GMT</lastBuildDate><atom:link href="https://thomaszahr.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Workflow Needs (slightly pretentious: How I work)]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[crumblingbiscuit]]></title><description><![CDATA[... crumblingbiscuit's common place book]]></description><link>https://thomaszahr.github.io</link><image><url>https://lh3.googleusercontent.com/2tor-0-MsbWL48EuQdtcfpLLvxDaoF-JJfHtSVcdG2JTwaIUPxVdmoOEkZ8CL1HWosYdSfK_rUzmXHSfEQDOeRXCGupqs4s-U25VHuxajvPTP828QF6SvQGa8uOtHFTEfASc91qoH52kCqOosECpUgZBM-RNfgbMhOzsIWg9f-xEBiJ9B9xsUoGpFRSUc6uL8RTlu5zEOx21OmDFcm6wxOq--PFdN1k_9CSKq8i8uPVSmnzph0BK8TUN32nQSfhm8MStVJ7AyNeJSrMfpXISisByfDfNNv5usRajrU_dZvQqIXo6NVzTFGhVefnDQo-sRnnySfJE5RdRg0Hl-qu2EIz_8nKKUazdJuQ5p5ClM2KlGo5nDBl0AklThiupi9mrs4culYsWILRZ_rCaPHgIecjUabNcc3bOhc6RxX5zAUVU3YTdXwqTXE6Hhg_Dol1POm2OU2vy7m2CZI0K5cZLXF_VNk04OAjMrdmk2mhay3b1_b2nqlLZxnvLKbHLvh4qfHp0qSXQLkg91k8hGV0LiVNoWNrg5V81sa9MWm6Mw0BE7C37c8h0NVSpgLxtxmCpMaZHpenXD5mCAMsU598NeUhipq2rb6vB8vnp6WYLkWnxyKg9hdkHdw=s1021-no</url><title>crumblingbiscuit</title><link>https://thomaszahr.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Mar 2017 16:34:31 GMT</lastBuildDate><atom:link href="https://thomaszahr.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[more bread]]></title><description><![CDATA[<div class="imageblock">
+<div class="content">
+<img src="https://dl.dropboxusercontent.com/u/902203/Datei%2022.03.17%2C%2017%2000%2041.jpeg?DL=0" alt="Recipe 2" width="400">
+</div>
+</div>
+<table class="tableblock frame-topbot grid-cols spread">
+<caption class="title">Table 1. bread &amp; pizza recipes</caption>
+<colgroup>
+<col style="width: 16.6666%;">
+<col style="width: 16.6666%;">
+<col style="width: 16.6666%;">
+<col style="width: 16.6666%;">
+<col style="width: 16.6666%;">
+<col style="width: 16.667%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"></th>
+<th class="tableblock halign-left valign-top">Basic</th>
+<th class="tableblock halign-left valign-top">Recipe 1</th>
+<th class="tableblock halign-left valign-top">Recipe 2</th>
+<th class="tableblock halign-left valign-top">Pizza</th>
+<th class="tableblock halign-left valign-top">to be tested</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">flour</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1050er wheat</p></td>
+<td class="tableblock halign-left valign-top" colspan="4"><p class="tableblock">1050er spelt</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">water</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">65 - 70%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">60%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">55%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">55%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">57%</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">salt</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2%</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">yeast</p></td>
+<td class="tableblock halign-left valign-top" colspan="5"><p class="tableblock">for 50% flour</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">olive oil</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">-</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">-</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">-</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4%</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">-</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>As the dough of the spelt version (Recipe 1) was a bit too much on the wet side, I reduced the water content last week to 55%, see recipe 2.</p>
+</div>
+<div class="paragraph">
+<p>While I got a very nice loaf out of it, this time the dough was a bit dry and the crumb structure was to close for my taste.</p>
+</div>
+<div class="paragraph">
+<p>I used the same ratio for a pizza I did the day after, adding about 4% olive oil, which worked very well.</p>
+</div>
+<div class="paragraph">
+<p>Next spelt bread: 57% hydration.</p>
+</div>
+<div class="paragraph">
+<p>I also introduced a 5 minute break into the kneading process, which now runs:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>5 minutes kneading</p>
+</li>
+<li>
+<p>5 minutes rest</p>
+</li>
+<li>
+<p>5 minutes kneading</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>This I&#8217;ll keep.</p>
+</div>]]></description><link>https://thomaszahr.github.io/2017/03/22/more-bread.html</link><guid isPermaLink="true">https://thomaszahr.github.io/2017/03/22/more-bread.html</guid><category><![CDATA[bread]]></category><pubDate>Wed, 22 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Workflow Needs (slightly pretentious: How I work)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>First post in a series of (we&#8217;ll see)</p>
