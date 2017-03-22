@@ -1,0 +1,45 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Workflow Needs (current setup text processing)
+
+:hp-tags: work
+
+== Tech Stack
+
+The glue that keeps the four operating systems in sync is Dropbox. And all text files that need to be accessible wherever I am, live in the same Dropbox folder, appropriately called !txt Files.
+
+On the iPad I use
+
+* Drafts - for universal capture, various workflows
+* iA Writer
+* Editorial
+* TextTool
+* Calca
+* Byword
+
+On Android I use
+
+* iA Writer
+
+On Windows I use
+
+* Sublime Text 3
+	* Pandoc package
+	* Markdown Editing package
+	* Markdown Table Formatter package
+	* Smart Markdown package
+* Calca
+
+On Mac I use
+
+* Sublime Text 3
+	* Pandoc package
+	* Markdown Editing package
+	* Markdown Table Formatter package
+	* Smart Markdown package
+* Calca
