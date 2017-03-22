@@ -38,4 +38,4 @@ I also introduced a 5 minute break into the kneading process, which now runs:
 * 5 minutes rest
 * 5 minutes kneading
 
-This I'll keep
+This I'll keep.
