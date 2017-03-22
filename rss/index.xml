@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[crumblingbiscuit]]></title><description><![CDATA[... crumblingbiscuit's common place book]]></description><link>https://thomaszahr.github.io</link><image><url>https://lh3.googleusercontent.com/2tor-0-MsbWL48EuQdtcfpLLvxDaoF-JJfHtSVcdG2JTwaIUPxVdmoOEkZ8CL1HWosYdSfK_rUzmXHSfEQDOeRXCGupqs4s-U25VHuxajvPTP828QF6SvQGa8uOtHFTEfASc91qoH52kCqOosECpUgZBM-RNfgbMhOzsIWg9f-xEBiJ9B9xsUoGpFRSUc6uL8RTlu5zEOx21OmDFcm6wxOq--PFdN1k_9CSKq8i8uPVSmnzph0BK8TUN32nQSfhm8MStVJ7AyNeJSrMfpXISisByfDfNNv5usRajrU_dZvQqIXo6NVzTFGhVefnDQo-sRnnySfJE5RdRg0Hl-qu2EIz_8nKKUazdJuQ5p5ClM2KlGo5nDBl0AklThiupi9mrs4culYsWILRZ_rCaPHgIecjUabNcc3bOhc6RxX5zAUVU3YTdXwqTXE6Hhg_Dol1POm2OU2vy7m2CZI0K5cZLXF_VNk04OAjMrdmk2mhay3b1_b2nqlLZxnvLKbHLvh4qfHp0qSXQLkg91k8hGV0LiVNoWNrg5V81sa9MWm6Mw0BE7C37c8h0NVSpgLxtxmCpMaZHpenXD5mCAMsU598NeUhipq2rb6vB8vnp6WYLkWnxyKg9hdkHdw=s1021-no</url><title>crumblingbiscuit</title><link>https://thomaszahr.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Mar 2017 16:55:36 GMT</lastBuildDate><atom:link href="https://thomaszahr.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[... more bread]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[crumblingbiscuit]]></title><description><![CDATA[... crumblingbiscuit's common place book]]></description><link>https://thomaszahr.github.io</link><image><url>https://lh3.googleusercontent.com/2tor-0-MsbWL48EuQdtcfpLLvxDaoF-JJfHtSVcdG2JTwaIUPxVdmoOEkZ8CL1HWosYdSfK_rUzmXHSfEQDOeRXCGupqs4s-U25VHuxajvPTP828QF6SvQGa8uOtHFTEfASc91qoH52kCqOosECpUgZBM-RNfgbMhOzsIWg9f-xEBiJ9B9xsUoGpFRSUc6uL8RTlu5zEOx21OmDFcm6wxOq--PFdN1k_9CSKq8i8uPVSmnzph0BK8TUN32nQSfhm8MStVJ7AyNeJSrMfpXISisByfDfNNv5usRajrU_dZvQqIXo6NVzTFGhVefnDQo-sRnnySfJE5RdRg0Hl-qu2EIz_8nKKUazdJuQ5p5ClM2KlGo5nDBl0AklThiupi9mrs4culYsWILRZ_rCaPHgIecjUabNcc3bOhc6RxX5zAUVU3YTdXwqTXE6Hhg_Dol1POm2OU2vy7m2CZI0K5cZLXF_VNk04OAjMrdmk2mhay3b1_b2nqlLZxnvLKbHLvh4qfHp0qSXQLkg91k8hGV0LiVNoWNrg5V81sa9MWm6Mw0BE7C37c8h0NVSpgLxtxmCpMaZHpenXD5mCAMsU598NeUhipq2rb6vB8vnp6WYLkWnxyKg9hdkHdw=s1021-no</url><title>crumblingbiscuit</title><link>https://thomaszahr.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Mar 2017 17:03:14 GMT</lastBuildDate><atom:link href="https://thomaszahr.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[... more bread]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
 <img src="https://dl.dropboxusercontent.com/u/902203/Datei%2022.03.17%2C%2017%2000%2041.jpeg?DL=0" alt="Recipe 2" width="400">
 </div>
@@ -89,7 +89,99 @@
 </div>
 <div class="paragraph">
 <p>This I&#8217;ll keep.</p>
-</div>]]></description><link>https://thomaszahr.github.io/2017/03/22/more-bread.html</link><guid isPermaLink="true">https://thomaszahr.github.io/2017/03/22/more-bread.html</guid><category><![CDATA[bread]]></category><pubDate>Wed, 22 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Workflow Needs (slightly pretentious: How I work)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>https://thomaszahr.github.io/2017/03/22/more-bread.html</link><guid isPermaLink="true">https://thomaszahr.github.io/2017/03/22/more-bread.html</guid><category><![CDATA[bread]]></category><pubDate>Wed, 22 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Workflow Needs (current setup text processing)]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_tech_stack">Tech Stack</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The glue that keeps the four operating systems in sync is Dropbox. And all text files that need to be accessible wherever I am, live in the same Dropbox folder, appropriately called !txt Files.</p>
+</div>
+<div class="paragraph">
+<p>On the iPad I use</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Drafts - for universal capture, various workflows</p>
+</li>
+<li>
+<p>iA Writer</p>
+</li>
+<li>
+<p>Editorial</p>
+</li>
+<li>
+<p>TextTool</p>
+</li>
+<li>
+<p>Calca</p>
+</li>
+<li>
+<p>Byword</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>On Android I use</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>iA Writer</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>On Windows I use</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Sublime Text 3</p>
+</li>
+<li>
+<p>Pandoc package</p>
+</li>
+<li>
+<p>Markdown Editing package</p>
+</li>
+<li>
+<p>Markdown Table Formatter package</p>
+</li>
+<li>
+<p>Smart Markdown package</p>
+</li>
+<li>
+<p>Calca</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>On Mac I use</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Sublime Text 3</p>
+</li>
+<li>
+<p>Pandoc package</p>
+</li>
+<li>
+<p>Markdown Editing package</p>
+</li>
+<li>
+<p>Markdown Table Formatter package</p>
+</li>
+<li>
+<p>Smart Markdown package</p>
+</li>
+<li>
+<p>Calca</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>https://thomaszahr.github.io/2017/03/22/Workflow-Needs-current-setup-text-processing.html</link><guid isPermaLink="true">https://thomaszahr.github.io/2017/03/22/Workflow-Needs-current-setup-text-processing.html</guid><category><![CDATA[work]]></category><pubDate>Wed, 22 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Workflow Needs (slightly pretentious: How I work)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>First post in a series of (we&#8217;ll see)</p>
