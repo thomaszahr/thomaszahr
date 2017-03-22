@@ -14,13 +14,28 @@ image::https://dl.dropboxusercontent.com/u/902203/Datei%2022.03.17%2C%2017%2000%
 
 .bread & pizza recipes
 
-[cols="h,4*",options="header",width="80%"]
+[options="header", frame=topbot, grid=cols]
 |==================================
-|      |Basic		 |Recipe 1     |Recipe 2 	  | Pizza
-|flour | 1050er wheat|1050er spelt |1050er spelt  | 1050er spelt
-|water |65 - 70%  	 |60% 	       |55%  		  | 55%
-|salt  |2%  		 |2%     	   |2%  		  | 2%
-|yeast |for 50% flour | ||
-|olive oil | - | - | - | 4% |
+|      |Basic		 |Recipe 1     |Recipe 2 	  | Pizza			| to be tested
+|flour | 1050er wheat 4+|1050er spelt 
+|water |65 - 70%  	 |60% 	       |55%  		  | 55%				| 57%
+|salt  5*|2%  		 
+|yeast 5+|for 50% flour 
+|olive oil | - | - | - | 4% |-|
 |==================================
 
+As the dough of the spelt version (Recipe 1) was a bit too much on the wet side, I reduced the water content last week to 55%, see recipe 2.
+
+While I got a very nice loaf out of it, this time the dough was a bit dry and the crumb structure was to close for my taste.
+
+I used the same ratio for a pizza I did the day after, adding about 4% olive oil, which worked very well.
+
+Next spelt bread: 57% hydration.
+
+I also introduced a 5 minute break into the kneading process, which now runs:
+
+* 5 minutes kneading
+* 5 minutes rest
+* 5 minutes kneading
+
+This I'll keep
