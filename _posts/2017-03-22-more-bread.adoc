@@ -1,0 +1,23 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= more bread
+
+:hp-tags: bread
+
+.bread & pizza recipes
+
+[cols="h,4*",options="header",width="80%"]
+|==================================
+|      |Basic		 |Recipe 1     |Recipe 2 	  | Pizza
+|flour | 1050er wheat|1050er spelt |1050er spelt  | 1050er spelt
+|water |65 - 70%  	 |60% 	       |55%  		  | 55%
+|salt  |2%  		 |2%     	   |2%  		  | 2%
+|yeast |for 50% flour | ||
+|olive oil | - | - | - | 4% |
+|==================================
+
