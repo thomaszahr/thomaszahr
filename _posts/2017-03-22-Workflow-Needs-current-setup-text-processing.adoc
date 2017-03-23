@@ -29,10 +29,14 @@ On Android I use
 On Windows I use
 
 * Sublime Text 3
-	* Pandoc package
-	* Markdown Editing package
 	* Markdown Table Formatter package
+	* Markdown Editing package
+    * Markdown TOC
+    * Open Path
+    * Outline
+	* Pandoc package
 	* Smart Markdown package
+    * Table Editor
 * Calca
 
 On Mac I use
